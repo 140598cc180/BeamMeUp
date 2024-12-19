@@ -35,7 +35,6 @@ run_beamforming_example
 
 ### 联系方式 📮
 - Email: cc180_cbbsbh@tju.edu.cn 📧
-- 天津大学博士研究生 🏛️
 
 ##
 Ceci est mon dépôt de code pour l'étude de la formation de faisceaux pendant mes études de doctorat 🎓. Il comprend les algorithmes suivants ⚡：
@@ -73,4 +72,3 @@ run_beamforming_example
 
 ### Contact 📮
 - Email: cc180_cbbsbh@tju.edu.cn 📧
-- Doctorant à l'Université de Tianjin 🏛️
