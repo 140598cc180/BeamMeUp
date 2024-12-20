@@ -1,7 +1,7 @@
 # BeamMeUp 📡 🚀 
 
 这个是我在读博期间学习波束形成的代码库 🎓，包含以下算法 ⚡：
-
+![部分成像算法结果图](images/testpic.jpg)
 - MVDR (Minimum Variance Distortionless Response) 算法 🎯
 - DAMAS (Deconvolution Approach for the Mapping of Acoustic Sources) 🔍
 - DAMAS2 (Enhanced DAMAS) 🔬
